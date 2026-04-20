@@ -5,7 +5,7 @@
 using namespace std;
 
 /**
- * @file ConsoleApplication23.cpp
+ * @file ConsoleApplication123.cpp
  * @brief Программа для расчета тригонометрических функций.
  * @author Anastasia
  * @version 1.0
