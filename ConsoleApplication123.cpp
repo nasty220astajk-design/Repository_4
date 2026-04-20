@@ -7,6 +7,10 @@ using namespace std;
 /**
  * @file ConsoleApplication23.cpp
  * @brief Программа для расчета тригонометрических функций.
+ * @author Anastasia
+ * @version 1.0
+ * @date 2026-06-20
+ * @details лабораторная № 5
  */
 
  /**
